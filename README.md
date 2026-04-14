@@ -1,6 +1,6 @@
 # 📌 iQoERec
 
-This repository contains the official implementation (to be released) of the paper:
+This repository contains the official implementation (**to be released**) of the paper:
 
 > **Balancing User Experience and Monetization: An iQoE-Aware Recommendation Framework for Audio Platforms**
 
