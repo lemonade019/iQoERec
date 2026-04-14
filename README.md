@@ -1,4 +1,4 @@
-# 📌 iQoERec: iQoE-Aware Multi-Objective Recommendation
+# 📌 iQoERec
 
 This repository contains the official implementation (to be released) of the paper:
 
